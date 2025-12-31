@@ -1,3 +1,5 @@
-# APRENDIZAJE-NEXT-JS
+## Next.js App Router Course - Starter
 
-We will learn NEXT JS from scratch and upload the code here............ALL THE BEST NEXT JS APRENDI
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
